@@ -1,0 +1,6 @@
+2023-12-16 18:19:56  [JavaFX-Launcher] - INFO  Run application initialization ... call method Init in super class
+2023-12-16 18:19:56  [JavaFX Application Thread] - INFO  Application started...
+2023-12-16 18:20:03  [JavaFX Application Thread] - INFO  Application stopped... call method Stop in super class
+2023-12-16 21:09:02  [JavaFX-Launcher] - INFO  Run application initialization ... call method Init in super class
+2023-12-16 21:09:02  [JavaFX Application Thread] - INFO  Application started...
+2023-12-16 21:09:24  [JavaFX Application Thread] - INFO  Application stopped... call method Stop in super class

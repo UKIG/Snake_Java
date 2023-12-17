@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: ru.spd.spbcut.tracing_object.SnakeGame
+

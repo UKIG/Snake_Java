@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.spd.spbcut.tracing_object.util","l":"CellStage"},{"p":"ru.spd.spbcut.tracing_object.util","l":"Constant"},{"p":"ru.spd.spbcut.tracing_object.game","l":"Snake"},{"p":"ru.spd.spbcut.tracing_object","l":"SnakeGame"}];updateSearchResults();
